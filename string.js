@@ -17,3 +17,6 @@ console.log(myString4)
 
 var myString5 = "How about this string??"
 console.log(myString5)
+
+var myString6 = "This is 'not' a number"
+console.log(myString6)
